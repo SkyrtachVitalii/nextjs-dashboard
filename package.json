@@ -37,5 +37,11 @@
   },
   "engines": {
     "node": ">=18.17.0"
-  }
+  },
+  "name": "nextjs",
+  "version": "1.0",
+  "description": "my first next project",
+  "main": "index.js",
+  "author": "Skyrtach Vitalii <vitaliiskirtac@gmail.com>",
+  "license": "MIT"
 }
